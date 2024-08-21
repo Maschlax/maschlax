@@ -1,41 +1,26 @@
-<div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1124760941289025579/1275900608137662567/small_mxlx.png?ex=66c7928a&is=66c6410a&hm=cc12012925cfea9bf3962bb41e3b2eb8a331a00d775969c239a0e3dccc1fe68d&=&format=webp&quality=lossless&width=900&height=450"  />
-</div>
+# About Me
+👋 I'm Max aka. Maschlax. A creative student from Luxembourg with lots of ideas.
 
-###
+👩‍💻 I'm currently working on [WishMC Network](https://github.com/WishMC) & personal projects
 
-<div align="center">
-  <a href="https://youtube.com/@maschlax" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitch.tv/maschlax" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/ECZwKQHeuD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/maschlax" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+🧠 I'm interested in Java & Web Applications
 
-###
+📫 Reach me at discord @maschlax or per mail max@mxlx.dev
 
-<h1 align="center">Maschlax</h1>
+![Maschlax's GitHub stats](https://github-readme-stats.vercel.app/api?username=maschlax&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maschlax&layout=compact&theme=merko)
 
-###
+# Socials
+https://mxlx.dev
 
-<h3 align="left">About Me</h3>
+https://wishmc.net
 
-###
+https://youtube.com/@maschlax
 
-<p align="left">I'm a creative developer from Luxembourg.<br>I like Java andI have a lot of interest towards web applications.</p>
+https://twitch.tv/maschlax
 
-###
+https://instagram.com/maschlax
 
-<h3 align="left">Languages I've used before</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
