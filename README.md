@@ -14,3 +14,4 @@ Java, Kotlin, Python, HTML, CSS
 ### Socials
 [Website](https://mxlx.dev)\
 [YouTube](https://youtube.com/@maschlax)
+[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=html3&text=4)](https://github.com/harish-sethuraman/readme-components)
