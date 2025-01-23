@@ -10,7 +10,7 @@
     </a>
     <p>
         <a href="https://mxlx.dev">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maschlax&theme=merko" alt="Maschlax's GitHub stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maschlax&theme=merko" alt="Maschlax GitHub stats">
         </a>
     </p>
     <h1>Skills</h1>
