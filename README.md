@@ -8,11 +8,6 @@
     <a href="https://www.buymeacoffee.com/maschlax" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;">
     </a>
-    <p>
-        <a href="https://mxlx.dev">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maschlax&theme=merko" alt="Maschlax GitHub stats">
-        </a>
-    </p>
     <h1>Skills</h1>
     <p>
         <a href="https://skillicons.dev">
