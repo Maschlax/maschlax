@@ -1,7 +1,7 @@
 <div align="center">
     <h1>About Me</h1>
     <p>👋 I'm Max aka. Maschlax. A creative student from Luxembourg with lots of ideas.</p>
-    <p>👩‍💻 I'm currently working on <a href="https://github.com/WishMC" target="_blank">WishMC Network</a> & personal projects</p>
+    <p>👩‍💻 I'm currently working on <a href="https://github.com/WishMC" target="_blank">WishMC</a> & personal projects</p>
     <p>🧠 I'm interested in Java & Web Applications</p>
     <p>📫 Reach me at discord @maschlax or per mail <a href="mailto:max@mxlx.dev">max@mxlx.dev</a></p>
     <br>  
@@ -11,13 +11,13 @@
     <h1>Skills</h1>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,php,py,html,css" alt="My Skills">
+            <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,sqlite,php,py,html,css,js,md" alt="My Skills">
         </a>
     </p>
     <h1>Tools</h1>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=github,notion,idea,phpstorm,vscode" alt="My Tools">
+            <img src="https://skillicons.dev/icons?i=github,notion,idea,vscode,discord" alt="My Tools">
         </a>
     </p>
     <h1>Socials</h1>
